@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=ASUS HID RGB Control
+Comment=Control RGB lighting on ASUS keyboards
+Exec=/usr/bin/asus-hidrgb
+Icon=asus-hidrgb-logo
+Terminal=false
+Type=Application
+Categories=Utility;

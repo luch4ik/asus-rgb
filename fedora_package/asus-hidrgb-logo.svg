@@ -1,0 +1,17 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="a" x1="1.3229" x2="15.61" y1="8.4665" y2="8.4665" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ff2a2a" offset="0"/>
+   <stop stop-color="#ff2a2a" stop-opacity=".99216" offset=".031496"/>
+   <stop stop-color="#faff2a" offset=".15748"/>
+   <stop stop-color="#2aff2a" offset=".31496"/>
+   <stop stop-color="#2afffa" offset=".47244"/>
+   <stop stop-color="#2a2aff" offset=".62992"/>
+   <stop stop-color="#fa2aff" offset=".7874"/>
+   <stop stop-color="#ff2a2a" offset=".94488"/>
+   <stop stop-color="#ff2a2a" stop-opacity=".98824" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path d="m3.175 1.3229c-1.0264 0-1.8521 0.8257-1.8521 1.8521v10.583c0 1.0264 0.8257 1.8521 1.8521 1.8521h10.583c1.0264 0 1.8521-0.8257 1.8521-1.8521v-10.583c0-1.0264-0.8257-1.8521-1.8521-1.8521zm4.2332 2.6458h2.1166v2.1166h-2.1166zm2.6458 0h2.1166v2.1166h-2.1166zm-5.2916 2.6458h2.1166v2.1166h-2.1166zm2.6458 0h2.1166v2.1166h-2.1166zm2.6458 0h2.1166v2.1166h-2.1166zm-5.2916 2.6458h2.1166v2.1166h-2.1166zm2.6458 0h2.1166v2.1166h-2.1166zm2.6458 0h2.1166v2.1166h-2.1166z" fill="#444"/>
+ <rect x="1.3229" y="1.3229" width="14.287" height="14.287" rx="1.8521" ry="1.8521" fill="url(#a)" style="paint-order:markers stroke fill"/>
+</svg>

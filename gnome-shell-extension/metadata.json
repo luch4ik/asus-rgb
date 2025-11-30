@@ -1,0 +1,6 @@
+{
+    "name": "ASUS Keyboard RGB Control",
+    "description": "Control ASUS keyboard RGB lighting from the top bar.",
+    "uuid": "asus-keyboard-rgb-control@nvx.com",
+    "shell-version": [ "45" ]
+}

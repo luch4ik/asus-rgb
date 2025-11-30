@@ -1,0 +1,8 @@
+# Grant non-root access to specific keyboard hidraw device
+# Replace idVendor and idProduct with your device values (hex, lowercase)
+
+# Rule for ASUS ROG/TUF RGB Keyboard (Internal ITE5570 I2C HID)
+SUBSYSTEM=="hidraw", KERNELS=="0018:0B05:19B6.0002", MODE="0666"
+# Allow non-root access to hidraw and input events (broad)
+KERNEL=="hidraw*", SUBSYSTEM=="hidraw", MODE="0660", GROUP="input"
+KERNEL=="event*", SUBSYSTEM=="input", MODE="0660", GROUP="input"
